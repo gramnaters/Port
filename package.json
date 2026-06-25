@@ -1,0 +1,17 @@
+{
+  "name": "jimmy-eclipse-addon",
+  "version": "1.0.0",
+  "description": "JIMMY Eclipse Addon - Simple port of 8spine jimmy.js for Vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
